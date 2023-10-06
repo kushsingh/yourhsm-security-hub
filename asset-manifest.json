@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/yourhsm-security-hub/static/css/main.83239772.css",
+    "main.js": "/yourhsm-security-hub/static/js/main.23bfff26.js",
+    "static/media/hero-banner-02.jpg": "/yourhsm-security-hub/static/media/hero-banner-02.184c65ecb1db0b27ca3a.jpg",
+    "static/media/hero-banner-03.jpg": "/yourhsm-security-hub/static/media/hero-banner-03.34c034263bcf150a04d6.jpg",
+    "static/media/hero-banner-01.jpg": "/yourhsm-security-hub/static/media/hero-banner-01.5ff16ccf34113e32ba69.jpg",
+    "static/media/Logos-Photo.png": "/yourhsm-security-hub/static/media/Logos-Photo.aadfba367a5241d1fd3f.png",
+    "static/media/logo-yourhsm.png": "/yourhsm-security-hub/static/media/logo-yourhsm.8b5fc5e1280b31f2bc88.png",
+    "index.html": "/yourhsm-security-hub/index.html",
+    "main.83239772.css.map": "/yourhsm-security-hub/static/css/main.83239772.css.map",
+    "main.23bfff26.js.map": "/yourhsm-security-hub/static/js/main.23bfff26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83239772.css",
+    "static/js/main.23bfff26.js"
+  ]
+}
