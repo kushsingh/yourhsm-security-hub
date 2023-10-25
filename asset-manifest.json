@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/yourhsm-security-hub/static/css/main.927a36e7.css",
-    "main.js": "/yourhsm-security-hub/static/js/main.b0e54a2f.js",
+    "main.css": "/yourhsm-security-hub/static/css/main.000e967b.css",
+    "main.js": "/yourhsm-security-hub/static/js/main.13fcd31e.js",
     "static/media/ourUSPs.jpg": "/yourhsm-security-hub/static/media/ourUSPs.b895ca0b018d8d27a8f4.jpg",
     "static/media/hero-banner-small-02.jpg": "/yourhsm-security-hub/static/media/hero-banner-small-02.885b83b2dc8e98d940ea.jpg",
     "static/media/hero-banner-small-05.jpg": "/yourhsm-security-hub/static/media/hero-banner-small-05.c13ff795aea877b514fa.jpg",
@@ -16,11 +16,11 @@
     "static/media/data-vault.jpg": "/yourhsm-security-hub/static/media/data-vault.504651505ba7f3c69fdc.jpg",
     "static/media/logo-yourhsm.png": "/yourhsm-security-hub/static/media/logo-yourhsm.8b5fc5e1280b31f2bc88.png",
     "index.html": "/yourhsm-security-hub/index.html",
-    "main.927a36e7.css.map": "/yourhsm-security-hub/static/css/main.927a36e7.css.map",
-    "main.b0e54a2f.js.map": "/yourhsm-security-hub/static/js/main.b0e54a2f.js.map"
+    "main.000e967b.css.map": "/yourhsm-security-hub/static/css/main.000e967b.css.map",
+    "main.13fcd31e.js.map": "/yourhsm-security-hub/static/js/main.13fcd31e.js.map"
   },
   "entrypoints": [
-    "static/css/main.927a36e7.css",
-    "static/js/main.b0e54a2f.js"
+    "static/css/main.000e967b.css",
+    "static/js/main.13fcd31e.js"
   ]
 }
